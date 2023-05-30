@@ -149,11 +149,5 @@
   border-image-source: url('/img/img-400x200.jpg');
   box-sizing: border-box;
   border-image-width: 40px;
-}
-
-.task34 {
-  border-image-source: url('/img/img-400x200.jpg');
-  box-sizing: border-box;
-  border-image-width: 40px;
   border-image-slice: 10;
 }
